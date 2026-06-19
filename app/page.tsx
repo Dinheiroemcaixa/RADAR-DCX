@@ -100,8 +100,8 @@ export default function RadarDCX() {
     >
       {/* Nome */}
       <div className="absolute top-6 left-7 select-none z-10">
-        <div className="font-bold leading-none" style={{ color: titleColor, fontSize: "2rem", letterSpacing: "-0.02em" }}>
-          Radar DCX
+        <div className="font-bold leading-none" style={{ fontSize: "2rem", letterSpacing: "-0.02em" }}>
+          <span style={{ color: "#1a237e" }}>Radar </span><span style={{ color: "#22c55e" }}>DCX</span>
         </div>
         <div className="text-[10px] tracking-[0.2em] uppercase mt-1" style={{ color: subtitleColor }}>
           Central de Aplicações
