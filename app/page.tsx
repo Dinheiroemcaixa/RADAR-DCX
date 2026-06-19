@@ -156,7 +156,7 @@ export default function RadarDCX() {
         <div
           className="absolute z-50 w-40 h-40 rounded-full flex items-center justify-center"
           style={{
-            backgroundColor: "#000000",
+            backgroundColor: darkMode ? "#000000" : "transparent",
             border: "1px solid rgba(71,85,105,0.4)",
           }}
         >
