@@ -36,7 +36,7 @@ const apps = [
   {
     text: "Connecta AI",
     description: "Gestão financeira inteligente: contas a pagar e receber com automação BPO.",
-    url: "https://integra-o-conatas-a-pagar-receber.vercel.app/login",
+    url: "https://integra-o-conatas-a-pagar-receber.vercel.app",
     icon: <BiSolidReport className="h-7 w-7" />,
     iconSmall: <BiSolidReport className="h-3 w-3" />,
     color: "#f59e0b",
